@@ -41,7 +41,7 @@ class Macro
 	macro
 	public static function checkOpenFL() 
 	{
-		VERSION.checkVer();
+		//VERSION.checkVer();
 		
 		final defines = Context.getDefines();
 
