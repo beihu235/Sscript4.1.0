@@ -17,7 +17,7 @@ Enter this command in command prompt to get the latest release from Haxe library
 
 ------------
 
-`haxelib git SScript https://github.com/TheWorldMachinima/SScript.git`
+`haxelib git SScript https://github.com/beihu235/Sscript4.1.0`
 
 Enter this command in command prompt to get the latest git release from Github. 
 Git releases have the latest features but they are unstable and can cause problems.
