@@ -23,6 +23,7 @@ abstract SScriptVer(Null<Int>)
 
     public function checkVer():Void
     {
+        /*
         try 
         {
             var me:Int = toInt();
@@ -31,6 +32,7 @@ abstract SScriptVer(Null<Int>)
             if (me < me2.toInt())
                 trace('You\'re using an outdated version of SScript (${toString()}). Please update it to ${me2}.');
         }
+        */ //it use 4.1.0 so dont need check
     }
 
     public static function fromString(string:String):SScriptVer
